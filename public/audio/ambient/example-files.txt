@@ -1,0 +1,20 @@
+🎵 PLACE YOUR AUDIO FILES HERE! 🎵
+
+The app now automatically detects ANY audio files you put in this folder!
+
+✅ Supported formats:
+- .mp3 (most compatible)
+- .wav (high quality) 
+- .ogg (good compression)
+- .m4a (Apple format)
+- .flac (lossless)
+
+✅ Any filename works:
+- my-favorite-song.wav
+- relaxing-ambient.mp3
+- nature-sounds.ogg
+- background-music-1.wav
+
+❌ DELETE this file after adding your music files
+
+🔄 Refresh the webpage after adding files to see them appear in the music controls! 
